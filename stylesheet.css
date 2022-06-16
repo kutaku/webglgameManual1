@@ -1,5 +1,8 @@
 body {background-color: #dedede;/*背景色を薄い色にする*/}
+
 .title h2, .title a:link, .title a:visited, .title a:hover, .title a:active {color: black; font-size: 32px; text-align: center;}
+
 .subtitle {text-align: center;}
+
 h4{padding: 0.5em 0.5em;/*文字の上下 左右の余白*/ color: #505050;/*文字色*/ background: #dedede;/*背景色*/ 
   border-left: solid 5px #505050;/*左線*/ border-bottom: solid 3px #d7d7d7;/*下線*/}
